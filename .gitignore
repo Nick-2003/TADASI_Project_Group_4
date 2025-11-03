@@ -2,3 +2,4 @@
 *.~*.twbr
 *~$*.xlsx
 /.ipynb_checkpoints
+.ipynb_checkpoints/yhfinance_data_extract-checkpoint.ipynb
